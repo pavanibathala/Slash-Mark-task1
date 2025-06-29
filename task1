@@ -1,0 +1,65 @@
+ ✅ To-Do List Python Project
+
+This is a simple terminal-based 🖥️ To-Do List application written in Python 🐍.  
+It allows users to manage tasks from the command line by adding, viewing, completing, and removing tasks easily.
+
+---
+
+## 🚀 Features
+
+- ➕ Add a new task  
+- 📋 View all tasks  
+- ✅ Mark a task as completed  
+- 🗑️ Remove a task  
+- ❌ Exit the program
+
+---
+
+## ▶️ How to Run the Program
+
+### 📌 Requirements
+
+- Python 3.x installed on your system
+- No external libraries required (only built-in Python)
+### 📌 Requirements
+- You must have *Python* installed on your computer.
+- The program file name should be: to_do_list.py.
+
+### 🧭 Steps to Run (Very Easy)
+
+1. Open *VS Code*.
+2. Click on *File → Open Folder*.
+3. Choose the folder named TODOLISTPROJECT.
+4. On the left side, click on to_do_list.py to open it.
+5. Press Ctrl + ~ on your keyboard to open the terminal.
+6. In the terminal (bottom part), type this:
+
+python to_do_list.py
+
+7. Press *Enter*.
+8. The program will now start showing options like:
+
+1. Display to-do list
+
+
+2. Add a task
+
+
+3. Mark a task as completed
+
+
+4. Remove a task
+
+
+5. Quit
+
+
+
+9. Type the number to use the program (for example: 2 to add a task).
+
+That’s it! You are now using your To-Do List application
+
+
+
+
+
